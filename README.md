@@ -83,7 +83,6 @@ Selected articles:
 - [Kanlı Canlı — Kütür Kütür SOLID Prensipleri](https://seysane.medium.com/kanl%C4%B1-canl%C4%B1-k%C3%BCt%C3%BCr-k%C3%BCt%C3%BCr-solid-prensipleri-7055aa00f774)
 - [Business Process Model and Notation (BPMN)](https://seysane.medium.com/business-process-management-notation-1e51d945e877)
 - [BPMN’e Giriş — Temel BPMN Nesneleri](https://seysane.medium.com/bpmne-giri%C5%9F-part-1-d23e0167dd81)
-- [BPMN Bölüm 1 - Kulvarlar (Swimlanes)](https://seysane.medium.com/bpmn-b%C3%B6l%C3%BCm-1-kulvarlar-swimlanes-54a12dcd2f41)
 
 ---
 
