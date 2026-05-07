@@ -1,6 +1,6 @@
 # Hakan Seysane
 
-**Engineering Manager & Platform Architect focused on Technical Governance, cloud-native systems, Secure SDLC, observability, and AI-assisted engineering**
+**Technical Lead | Software Development Manager | Platform Architecture & Secure SDLC**
 
 I help engineering teams design, build, modernize, and operate scalable software platforms.
 
