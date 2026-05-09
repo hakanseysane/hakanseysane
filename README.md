@@ -80,9 +80,9 @@ I write about software engineering, API design, process modeling, and engineerin
 Selected articles:
 
 - [RESTful API Tasarım Kılavuzu](https://seysane.medium.com/restful-api-tasar%C4%B1m-k%C4%B1lavuzu-740e5f01905f)
-- [Kanlı Canlı — Kütür Kütür SOLID Prensipleri](https://seysane.medium.com/kanl%C4%B1-canl%C4%B1-k%C3%BCt%C3%BCr-k%C3%BCt%C3%BCr-solid-prensipleri-7055aa00f774)
+- [Kanlı Canlı - Kütür Kütür SOLID Prensipleri](https://seysane.medium.com/kanl%C4%B1-canl%C4%B1-k%C3%BCt%C3%BCr-k%C3%BCt%C3%BCr-solid-prensipleri-7055aa00f774)
 - [Business Process Model and Notation (BPMN)](https://seysane.medium.com/business-process-management-notation-1e51d945e877)
-- [BPMN’e Giriş — Temel BPMN Nesneleri](https://seysane.medium.com/bpmne-giri%C5%9F-part-1-d23e0167dd81)
+- [BPMN’e Giriş - Temel BPMN Nesneleri](https://seysane.medium.com/bpmne-giri%C5%9F-part-1-d23e0167dd81)
 
 ---
 
@@ -92,7 +92,7 @@ I approach engineering as a balance between architecture, delivery, security, an
 
 Good software is shaped by code quality, system boundaries, operational visibility, clear ownership, and the ability of teams to understand and evolve the system over time.
 
-My background in Visual Communication and Design also helps me think about clarity, structure, hierarchy, and how complex systems are represented — especially in architecture diagrams, process models, documentation, and stakeholder communication.
+My background in Visual Communication and Design also helps me approach technical topics with attention to clarity, structure, hierarchy, architecture diagrams, process models, documentation, and stakeholder communication.
 
 ---
 
@@ -104,7 +104,7 @@ My background in Visual Communication and Design also helps me think about clari
 
 ---
 
-⚡ Fun fact: I like complex systems — whether they are software platforms, musical arrangements, business processes, or mountain routes.
+⚡ Fun fact: I like complex systems, whether they are software platforms, musical arrangements, business processes, or mountain routes.
 
 ## Beyond Engineering
 
